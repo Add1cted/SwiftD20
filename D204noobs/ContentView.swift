@@ -6,7 +6,7 @@
 //  Copyright © 2020 Mitchell Melrose. All rights reserved.
 //
 
-import SwiftUI
+import UIKit
 
 struct ContentView: View {
     var body: some View {
